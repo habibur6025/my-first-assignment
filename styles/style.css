@@ -313,3 +313,205 @@ background: rgb(84, 144, 245);
             margin-top: 40px;
 
         }
+
+        .page2{
+
+display: flex;
+width: 1536px;
+
+        }
+
+  .main-page{
+
+    margin-right: 160px;
+    margin-left: 160px;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom:50px;
+
+
+  }   
+  .main-content{
+    height: 120px;
+  } 
+  .main-content h2{
+height: 48px;
+
+  }  
+  .main-content p{
+    height: 72px;
+  }
+  .car{
+
+    display: flex;
+    width: 1536px;
+    
+  }
+  .main-car{
+
+    margin-right: 160px;
+    margin-left: 160px;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 20px;
+    padding: 48px;
+    border-radius: 24px;
+    background-color:teal;
+  }
+  .main-im{
+
+    height: 306px;
+    width: 408px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main-im img{
+
+    border-radius: 20px;
+  }
+  .date{
+
+    margin-top: 20px;
+  }
+  .main-text img,p{
+
+    margin-top: 30px;
+  }
+.main-text button{
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 10px;
+
+background: rgb(0, 106, 80);
+}
+.final{
+    display: flex;
+    width: 1536px;
+}
+.final-text{
+
+    margin-right: 160px;
+    margin-left: 160px;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: brown;
+
+}
+.title-text{
+display: flex;
+justify-content: center;
+height: 48px;
+margin-bottom: 24px;
+
+
+}
+.final-p{
+display: flex;
+height: 48px;
+
+}
+.final-card{
+display: flex;
+gap: 20px;
+height: 130px;
+justify-content: center;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.taka{
+display: flex;
+height: 120px;
+width: 236px;
+border: 1px solid tomato;
+border-radius: 10px;
+justify-content: center;
+align-items: center;
+}
+
+.taka2{
+    display: flex;
+    height: 120px;
+    width: 236px;
+    border: 1px solid tomato;
+    border-radius: 10px;
+    justify-content: center;
+align-items: center;
+background-color: rgb(198, 228, 214);
+}
+
+    
+    
+    .taka3{
+        display: flex;
+        height: 120px;
+        width: 236px;
+        border: 1px solid tomato;
+        border-radius: 10px;
+        justify-content: center;
+align-items: center;
+}
+    
+
+        
+
+        .taka4{
+            display: flex;
+            height: 120px;
+            width: 236px;
+            border: 1px solid tomato;
+            border-radius: 10px;
+            justify-content: center;
+align-items: center;
+}
+
+.final-card :hover{
+
+    background-color: rgb(94, 103, 103);
+}
+.final-input p{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 800px;
+    background-color: white;
+    
+
+}
+
+.final-input{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.down{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d-button{
+
+    padding: 10px;
+    display: flex;
+    height: 50px;
+    margin-bottom: 50px;
+
+    
+}
+.d-button button{
+
+    background-color: rgb(0, 106, 80);
+    width: 140px;
+    border-radius: 8px;
+}
+
+
+            
